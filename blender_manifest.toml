@@ -7,7 +7,7 @@ tagline = "A set of tools for working with Goldsource (Half-Life) models in Blen
 maintainer = "DaKashi"
 type = "add-on"
 
-website = "https://github.com/DaKashi/Goldsrc-Model-Helper"
+website = "https://github.com/DaKashi-bmp/Goldsource-Model-Helper"
 license = ["SPDX:GPL-3.0-or-later"]
 
 blender_version_min = "3.0.0"
