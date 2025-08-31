@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "goldsrc_model_helper"
+version = "2.2.0"
+name = "GS Model Helper"
+tagline = "A set of tools for working with Goldsource (Half-Life) models in Blender"
+maintainer = "DaKashi"
+type = "add-on"
+
+website = "https://github.com/DaKashi/Goldsrc-Model-Helper"
+license = ["SPDX:GPL-3.0-or-later"]
+
+blender_version_min = "3.0.0"
+
+[permissions]
+files = "Required to rename and clean up materials/textures"
