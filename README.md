@@ -14,7 +14,7 @@ A Blender addon that provides a set of useful tools for working with **Goldsourc
 
 ## Installation & Usage
 Full installation and usage instructions can be found here:  
-👉 [GS Model Helper Documentation](https://www.notion.so/2602f64aee2580b3945ecf8a2cebc1de?v=2602f64aee258053a597000c3902eb74)
+[GS Model Helper Documentation](https://www.notion.so/2602f64aee2580b3945ecf8a2cebc1de?v=2602f64aee258053a597000c3902eb74)
 
 ## License
 This addon is licensed under the **GNU GPL-3.0-or-later**.  
